@@ -1,13 +1,3 @@
-자기소개 페이지
-리드미 페이지에 자기소개 작성
-
-이름  
-사진  
-간단한 인사말
-
-이번주 목금 db설계 팀 프로젝트 때 어떤 주제로 하고싶은지
-
-
 
 
 # Markup
@@ -72,6 +62,14 @@ public PayloadDBStream
 
 4. 가운데 정렬
 <center>호잇</center>
+<div align="center">
+내용
+내용  
+
+--- 
+
+내용
+</div>
 
 5. 그림 추가
 src=경로
