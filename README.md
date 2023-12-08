@@ -7,7 +7,7 @@
 <img src='./우와와.PNG' height="200">  
 
 ---
-#### &nbsp;&nbsp;[<img src='./velog.png'>](https://velog.io/@ingjeon) &nbsp; &ensp; &emsp; &nbsp;[<img src='./notion.png'>](https://blue-blender-ca3.notion.site/day-11-037d4064b142494f9a83080c8c02c4ec?pvs=4)  
+#### &nbsp;&nbsp;[<img src='./velog.png'>](https://velog.io/@ingjeon) &nbsp; &ensp; &emsp; &nbsp;[<img src='./notion.png'>](https://ingjeon.notion.site/TIL-018d59cfac0c4e7c965d06ea307897f0?pvs=4)  
 &nbsp; &nbsp;**회고 정리** &nbsp; &nbsp; **수업 기록**
 
 ---
